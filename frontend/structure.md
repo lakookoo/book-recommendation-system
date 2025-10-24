@@ -21,8 +21,8 @@ frontend/
 ├── components/
 │ ├── ui/
 │ │ ├── Button.tsx
-│ │ ├── Input.tsx
-│ │ ├── Card.tsx
+│ │ ├── Input.tsx - Text, email, password, search fields
+│ │ ├── Card.tsx - Display items (books, profiles)
 │ │ └── Avatar.tsx
 │ ├── layout/
 │ │ ├── Navbar.tsx
